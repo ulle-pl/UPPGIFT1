@@ -3,7 +3,7 @@ body {
   background-color: white;
 }
 
-table, th, td {
+table, td {
   border: 3px solid black;
   border-collapse: collapse;
 }
@@ -31,6 +31,7 @@ tr:nth-child(3) td {
 tr:nth-child(4) td {
   background-color: orange;
 }
+
 
 
 
