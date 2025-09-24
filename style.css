@@ -3,8 +3,8 @@ body {
   background-color: white;
 }
 
-table, td {
-  border: 3px solid gray;
+table, th td {
+  border: 3px solid white;
   border-collapse: collapse;
 }
 table {
@@ -16,7 +16,7 @@ h1 {
   text-align: center;
 }
 th {
-  color: black;
+  color: white;
   background-color: lightgray;
 }
 
@@ -31,6 +31,7 @@ tr:nth-child(3) td {
 tr:nth-child(4) td {
   background-color: orange;
 }
+
 
 
 
