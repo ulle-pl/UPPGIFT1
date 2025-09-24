@@ -17,11 +17,9 @@ h1 {
 }
 th {
   color: black;
+  background-color: lightgray;
 }
-th {
-  color: black;
-  background-color: black;
-}
+
 tr:nth-child(2) {
   background-color: orange;
 }
@@ -31,6 +29,7 @@ tr:nth-child(3) {
 tr:nth-child(4) {
   background-color: orange;
 }
+
 
 
 
