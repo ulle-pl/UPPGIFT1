@@ -7,6 +7,11 @@ table, th, td {
   border: 3px solid black;
   border-collapse: collapse;
 }
+table {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
 th {
   color: black;
 }
@@ -20,6 +25,7 @@ tr:nth-child(2) {
 tr:nth-child(3) {
   background-color: red;
 }
+
 
 
 
