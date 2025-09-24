@@ -1,12 +1,14 @@
 body {
-  background-color:yello;
+  font-family: Arial, sans-serif;
+  background-color: white;
 }
+
 table, th, td {
-  border: 1px solid black;
+  border: 3px solid black;
   border-collapse: collapse;
 }
 th {
-  color: lightgray;
+  color: black;
 }
 th {
   color: lightgray;
@@ -15,4 +17,5 @@ th {
 tr:nth-child(2) {
   background-color: red;
 }
+
 
