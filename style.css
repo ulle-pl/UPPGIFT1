@@ -5,3 +5,10 @@ table, th, td {
 th {
   color: lightgray;
 }
+th {
+  color: lightgray;
+  background-color: orange;
+}
+tr:nth-child(2) {
+  background-color: red;
+}
