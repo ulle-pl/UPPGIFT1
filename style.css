@@ -12,6 +12,9 @@ table {
   width: 60%;
   padding: 10px;
 }
+h1 {
+  text-align: center;
+}
 th {
   color: black;
 }
@@ -25,6 +28,7 @@ tr:nth-child(2) {
 tr:nth-child(3) {
   background-color: red;
 }
+
 
 
 
