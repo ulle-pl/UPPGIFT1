@@ -16,7 +16,7 @@ h1 {
   text-align: center;
 }
 th {
-  color: black;
+  color: white;
   background-color: lightgray;
 }
 
@@ -29,6 +29,7 @@ tr:nth-child(3) {
 tr:nth-child(4) {
   background-color: orange;
 }
+
 
 
 
