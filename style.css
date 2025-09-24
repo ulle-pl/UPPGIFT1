@@ -11,11 +11,15 @@ th {
   color: black;
 }
 th {
-  color: lightgray;
-  background-color: orange;
+  color: black;
+  background-color: lightgray;
 }
 tr:nth-child(2) {
+  background-color: orange;
+}
+tr:nth-child(3) {
   background-color: red;
 }
+
 
 
