@@ -1,14 +1,11 @@
 lobody {
   font-family: Arial, sans-serif;
-  background-color: yellow;
+  background-color: white;
 }
-
-table, th td {
+table, th, td {
   border: 5px solid black;
   border-collapse: collapse;
 }
-
-
 table {
   margin: auto;
   width: 50%;
@@ -35,6 +32,7 @@ tr:nth-child(3) td {
 tr:nth-child(4) td {
   background-color: orange;
 }
+
 
 
 
