@@ -1,6 +1,6 @@
-body {
+lobody {
   font-family: Arial, sans-serif;
-  background-color: white;
+  background-color: yellow;
 }
 
 table, th td {
@@ -35,6 +35,7 @@ tr:nth-child(3) td {
 tr:nth-child(4) td {
   background-color: orange;
 }
+
 
 
 
